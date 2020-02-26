@@ -1,4 +1,6 @@
 body {
     background-color: azure;
     text-align: center;
+    display: flex;
+    flex-direction: column;
 }
