@@ -1,0 +1,29 @@
+.navbar {
+    width: 100%;
+    background-color: aqua;
+    display: flex;
+}
+.navbar-logo {
+    flex: 1;
+}
+.navbar-list {
+    flex: 3;
+}
+.navbar-list ul {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: aqua;
+}
+.navbar li a{
+    display: block;
+    text-align: center;
+    color: white;
+    padding: 16px;
+    text-decoration: none;
+}
+.navbar li a:hover {
+    background-color: #111;
+}
