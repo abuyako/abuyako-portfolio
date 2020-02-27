@@ -21,14 +21,15 @@
     color: black;
     padding: 16px;
     text-decoration: none;
+    font-family: Amaranth-Regular;
+    border-bottom: transparent solid 1px;
 }
 .navbar li a:hover {
-    background-color: gray;
-    color: black;
-
+    border-bottom: black solid 1px;
 }
 .navbar-logo h1 {
     margin-top: 15px;
     margin-left: 50px;
     color: black;
+    font-family: Amaranth-Bold;
 }
