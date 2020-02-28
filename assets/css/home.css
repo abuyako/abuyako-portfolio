@@ -40,3 +40,11 @@
     margin-top: 25px;
     margin-left: 40px;
 }
+.home-image img {
+    width: 250px;
+    height: 250px;
+    border: black solid 13px;
+    border-radius: 50%;
+    margin-top: 40px;
+    margin-left: 70px;
+}
