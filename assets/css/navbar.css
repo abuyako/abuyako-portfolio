@@ -26,6 +26,7 @@
 }
 .navbar li a:hover {
     border-bottom: black solid 1px;
+    color: red;
 }
 .navbar-logo h1 {
     margin-top: 15px;
