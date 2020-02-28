@@ -10,21 +10,22 @@
 }
 .home-text h1 {
     margin-top: 50px;
-    margin-left: 150px;
+    margin-left: 130px;
     font-family: Amaranth-Bold;
     font-size: 40px;
 }
 .home-text p {
-    margin-left: 150px;
+    margin-left: 130px;
     font-family: Amaranth-Regular;
     margin-top: 5px;
 }
 .home-text ul {
-    margin-left: 150px;
+    margin-left: 130px;
     margin-top: 5px;
 }
 .home-text li {
     margin-top: 4px;
+    font-family: "PollyRounded-Light";
 }
 .home-image {
     flex: 2;
