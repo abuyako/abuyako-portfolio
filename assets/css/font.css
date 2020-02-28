@@ -10,3 +10,19 @@
     font-weight: 500;
     src: url(../fonts/Amaranth/Amaranth-Bold.ttf);
 }
+@font-face {
+    font-family: "PollyRounded-Bold";
+    src: url(../fonts/PollyRounded/PollyRounded-Bold.ttf);
+}
+@font-face {
+    font-family: "PollyRounded-Regular";
+    src: url(../fonts/PollyRounded/PollyRounded-Regular.ttf);
+}
+@font-face {
+    font-family: "PollyRounded-Light";
+    src: url(../fonts/PollyRounded/PollyRounded-Light.ttf);
+}
+@font-face {
+    font-family: "PollyRounded-Thin";
+    src: url(../fonts/PollyRounded/PollyRounded-Thin.ttf);
+}
