@@ -9,21 +9,27 @@
 .home-text h1 {
     margin-top: 70px;
     margin-left: 150px;
-    font-family: Amaranth-Bold;
-    font-size: 50px;
+    font-family: Amaranth-Regular;
+    font-size: 30px;
+}
+.home-text h3 {
+    margin-left: 150px;
+    margin-top: 5px;
+    font-family: "PollyRounded-Bold";
+    font-size: 20px;
 }
 .home-text p {
     margin-left: 150px;
-    font-family: Amaranth-Regular;
+    font-family: Amaranth-Bold;
     margin-top: 5px;
-    font-size: 30px;
+    font-size: 45px;
 }
 .home-text ul {
     margin-left: 150px;
     margin-top: 5px;
 }
 .home-text li {
-    margin-top: 8px;
+    margin-top: 20px;
     font-family: "PollyRounded-Light";
 }
 .home-image {
