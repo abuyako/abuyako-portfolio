@@ -28,7 +28,7 @@
 }
 .home-image {
     flex: 2;
-    background-color: darkgoldenrod;
+    /* background-color: darkgoldenrod; */
 }
 .home-social {
     width: 270px;
@@ -39,7 +39,4 @@
 .home-social i {
     margin-top: 25px;
     margin-left: 40px;
-}
-.home-image svg {
-    
 }
