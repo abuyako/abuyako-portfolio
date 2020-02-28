@@ -11,6 +11,10 @@
     margin-left: 150px;
     font-family: Amaranth-Regular;
     font-size: 30px;
+    background-color: red;
+    padding: 10px;
+    width: 120px;
+    border-radius: 5px 20px 5px;
 }
 .home-text h3 {
     margin-left: 150px;
@@ -45,6 +49,9 @@
     margin-top: 25px;
     margin-left: 40px;
     color: black;
+}
+.home-social i:hover {
+    color: red;
 }
 .home-image img {
     width: 250px;
