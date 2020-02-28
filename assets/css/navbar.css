@@ -34,3 +34,6 @@
     color: black;
     font-family: Amaranth-Bold;
 }
+.navbar-logo h1:hover {
+    color: red;
+}
