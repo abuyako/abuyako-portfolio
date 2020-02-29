@@ -42,3 +42,18 @@
     padding: 3px;
     font-family: Amaranth-Regular;
 }
+.btn {
+    background-color: red;
+    border: none;
+    border-radius: 20px;
+    color: white;
+    padding: 12px 30px;
+    cursor: pointer;
+    font-size: 18px;
+    margin-top: 60px;
+    font-family: Amaranth-Regular;
+    -webkit-box-shadow: 0 10px 6px -6px #777;
+       -moz-box-shadow: 0 10px 6px -6px #777;
+            box-shadow: 0 10px 6px -6px #777;
+    transition: 0.3s;
+  }
