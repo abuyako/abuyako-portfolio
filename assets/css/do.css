@@ -3,9 +3,18 @@
     background-color: mistyrose;
 }
 .do-card {
-
+    display: flex;
+    justify-content: center;
+}
+.do h1 {
+    text-align: center;
+    font-family: Amaranth-Bold;
+    font-size: 35px;
 }
 .do-card .card {
-    width: 100px;
-    background-color: orangered;
+    width: 350px;
+    height: 250px;
+    margin-top: 30px;
+    margin-left: 10px;
+    background-color: black;
 }
