@@ -40,6 +40,7 @@
     border-radius: 5px;
     padding: 3px;
     font-family: Amaranth-Regular;
+    cursor: pointer;
 }
 .btn {
     background-color: red;
