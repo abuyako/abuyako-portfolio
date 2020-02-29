@@ -1,0 +1,11 @@
+.do {
+    height: 500px;
+    background-color: mistyrose;
+}
+.do-card {
+
+}
+.do-card .card {
+    width: 100px;
+    background-color: orangered;
+}
