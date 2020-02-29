@@ -1,6 +1,5 @@
 .do {
     height: 500px;
-    background-color: mistyrose;
 }
 .do-card {
     display: flex;
@@ -12,9 +11,35 @@
     font-size: 35px;
 }
 .do-card .card {
-    width: 350px;
-    height: 250px;
+    width: 380px;
+    height: 280px;
     margin-top: 30px;
     margin-left: 10px;
     background-color: white;
 }
+.do-card .card h1 {
+    font-family: Amaranth-Bold;
+    margin-top: 30px;
+}
+.do-card .card p {
+    width: 300px;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 15px;
+    font-family: PollyRounded-Light;
+}
+.do-card .card i {
+    margin-top: 15px;
+    margin-left: 20px;
+    font-size: 30px;
+    font-weight: normal;
+}
+.do-card .card-01 i {
+    color: blueviolet;
+}
+.do-card .card-02 i {
+    color: chocolate;
+}
+.do-card .card-03 i {
+    color: rgba(14, 66, 223, 0.644);
+} 
