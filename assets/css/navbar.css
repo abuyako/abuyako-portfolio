@@ -26,6 +26,7 @@
     text-decoration: none;
     font-family: Amaranth-Regular;
     border-bottom: transparent solid 1px;
+    transition: ease-in 0.3s;
 }
 .navbar li a:hover {
     border-bottom: black solid 1px;
