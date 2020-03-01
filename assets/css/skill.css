@@ -1,0 +1,42 @@
+.skill {
+    height: 500px;
+    background-color: mistyrose;
+    display: flex;
+}
+.skill-technical {
+    flex: 2;
+    background-color: sandybrown;
+}
+.skill-professional {
+    flex: 2;
+}
+.skill-technical h1 {
+    text-align: center;
+    font-family: Amaranth-Bold;
+    font-size: 30px;
+}
+.skill-professional h1 {
+    text-align: center;
+}
+.myjavascript {
+    width: 75%;
+    background-color: lightgray;
+    margin-left: 20px;
+    border-radius: 10px;
+    margin-top: 8px;
+}
+.javascript {
+    width: 20%;
+    height: 12px;
+    background-color: red;
+    text-align: center;
+    color: white;
+    font-size: 12px;
+    border-radius: 10px;
+    padding: 2px;
+}
+.skill p {
+    margin-left: 20px;
+    font-family: Amaranth-Regular;
+    margin-top: 20px;
+}
