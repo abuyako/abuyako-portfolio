@@ -127,3 +127,54 @@
     border-radius: 10px;
     padding: 2px;
 }
+.mywork {
+    width: 75%;
+    background-color: lightgray;
+    margin-left: 30px;
+    border-radius: 10px;
+    margin-top: 8px;
+}
+.work {
+    width: 95%;
+    height: 12px;
+    background-color: red;
+    text-align: center;
+    color: white;
+    font-size: 12px;
+    border-radius: 10px;
+    padding: 2px;
+}
+.mymanage {
+    width: 75%;
+    background-color: lightgray;
+    margin-left: 30px;
+    border-radius: 10px;
+    margin-top: 8px;
+}
+.manage {
+    width: 95%;
+    height: 12px;
+    background-color: red;
+    text-align: center;
+    color: white;
+    font-size: 12px;
+    border-radius: 10px;
+    padding: 2px;
+}
+.mycreate {
+    width: 75%;
+    background-color: lightgray;
+    margin-left: 30px;
+    border-radius: 10px;
+    margin-top: 8px;
+}
+.create {
+    width: 95%;
+    height: 12px;
+    background-color: red;
+    text-align: center;
+    color: white;
+    font-size: 12px;
+    border-radius: 10px;
+    padding: 2px;
+}
