@@ -1,7 +1,6 @@
 .experience {
     height: 750px;
     display: flex;
-    background-color: tomato;
 }
 .experience-education {
     flex: 2;
@@ -29,18 +28,24 @@
     box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
   transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1)
 }
+.experience-education .card-01 {
+    height: 160px;
+}
+.experience-education .card-02 {
+    height: 160px;
+}
 .card:hover {
     box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
 }
 .experience-education .card-01 h1 {
     font-family: PollyRounded-Bold;
     font-size: 20px;
-    margin-top: 50px;
+    margin-top: 15px;
 }
 .experience-education .card-01 h2 {
     font-family: Amaranth-Bold;
     margin-top: 10px;
-    font-size: 35px;
+    font-size: 30px;
 }
 .experience-education .card-01 h3 {
     font-family: Amaranth-BoldItalic;
@@ -56,12 +61,12 @@
 .experience-education .card-02 h1 {
     font-family: PollyRounded-Bold;
     font-size: 20px;
-    margin-top: 50px;
+    margin-top: 15px;
 }
 .experience-education .card-02 h2 {
     font-family: Amaranth-Bold;
     margin-top: 10px;
-    font-size: 35px;
+    font-size: 30px;
 }
 .experience-education .card-02 h3 {
     font-family: Amaranth-BoldItalic;
@@ -166,6 +171,39 @@
     font-family: Amaranth-Regular;
 }
 .experience-work .card-06 h4 {
+    float: left;
+    font-size: 13px;
+    margin-left: 20px;
+    font-family: PollyRounded-Light;
+}
+
+.experience-work .card-07 h1 {
+    font-size: 20px;
+    margin-top: 10px;
+    float: left;
+    margin-left: 20px;
+}
+.experience-work .card-07 p {
+    font-size: 13px;
+    margin-top: 15.5px;
+    float: left;
+    margin-left: 5px;
+    font-family:Amaranth-Italic ;
+}
+.experience-work .card-07 h2 {
+    float: left;
+    margin-left: 20px;
+    font-family: PollyRounded-Light;
+    font-size: 14px;
+    margin-top: 5px;
+}
+.experience-work .card-07 h3 {
+    float: left;
+    font-size: 13px;
+    margin-left: 20px;
+    font-family: Amaranth-Regular;
+}
+.experience-work .card-07 h4 {
     float: left;
     font-size: 13px;
     margin-left: 20px;
