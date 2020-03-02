@@ -138,3 +138,36 @@
     margin-left: 20px;
     font-family: PollyRounded-Light;
 }
+
+.experience-work .card-06 h1 {
+    font-size: 20px;
+    margin-top: 10px;
+    float: left;
+    margin-left: 20px;
+}
+.experience-work .card-06 p {
+    font-size: 13px;
+    margin-top: 15.5px;
+    float: left;
+    margin-left: 5px;
+    font-family:Amaranth-Italic ;
+}
+.experience-work .card-06 h2 {
+    float: left;
+    margin-left: 20px;
+    font-family: PollyRounded-Light;
+    font-size: 14px;
+    margin-top: 5px;
+}
+.experience-work .card-06 h3 {
+    float: left;
+    font-size: 13px;
+    margin-left: 20px;
+    font-family: Amaranth-Regular;
+}
+.experience-work .card-06 h4 {
+    float: left;
+    font-size: 13px;
+    margin-left: 20px;
+    font-family: PollyRounded-Light;
+}
