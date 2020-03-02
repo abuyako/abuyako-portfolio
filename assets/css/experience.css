@@ -30,7 +30,8 @@
 }
 .card:hover {
     box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
-}.card-01 h1 {
+}
+.card-01 h1 {
     font-family: PollyRounded-Bold;
     font-size: 20px;
     margin-top: 50px;
@@ -51,3 +52,23 @@
     font-size: 20px;
 }
 
+.card-02 h1 {
+    font-family: PollyRounded-Bold;
+    font-size: 20px;
+    margin-top: 50px;
+}
+.card-02 h2 {
+    font-family: Amaranth-Bold;
+    margin-top: 10px;
+    font-size: 35px;
+}
+.card-02 h3 {
+    font-family: Amaranth-BoldItalic;
+    margin-top: 10px;
+    font-size: 20px;
+}
+.card-02 p {
+    font-family: PollyRounded-Thin;
+    margin-top: 10px;
+    font-size: 20px;
+}
