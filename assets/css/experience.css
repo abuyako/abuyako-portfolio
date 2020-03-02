@@ -1,5 +1,5 @@
 .experience {
-    height: 600px;
+    height: 750px;
     display: flex;
     background-color: tomato;
 }
@@ -171,3 +171,4 @@
     margin-left: 20px;
     font-family: PollyRounded-Light;
 }
+
