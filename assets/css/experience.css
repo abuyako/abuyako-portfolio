@@ -1,6 +1,7 @@
 .experience {
-    height: 1000px;
+    height: 600px;
     display: flex;
+    background-color: tomato;
 }
 .experience-education {
     flex: 2;
