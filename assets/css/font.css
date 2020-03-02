@@ -11,6 +11,12 @@
     src: url(../fonts/Amaranth/Amaranth-Bold.ttf);
 }
 @font-face {
+    font-family: "Amaranth-BoldItalic";
+    font-style: normal;
+    font-weight: 500;
+    src: url(../fonts/Amaranth/Amaranth-BoldItalic.ttf);
+}
+@font-face {
     font-family: "PollyRounded-Bold";
     src: url(../fonts/PollyRounded/PollyRounded-Bold.ttf);
 }
