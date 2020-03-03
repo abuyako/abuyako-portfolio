@@ -38,9 +38,7 @@ body {
 }
 
 /* projecr01 */
-.project01 {
-  /* display: flex; */
-}
+
 .project01-image {
   flex: 2;
   /* margin-top: 100px; */
@@ -95,9 +93,7 @@ body {
 }
 
 /* projecr02 */
-.project02 {
-  /* display: flex; */
-}
+
 .project02-image {
   flex: 2;
   /* margin-top: 100px; */
@@ -153,9 +149,7 @@ body {
 
 
 /* projecr03 */
-.project03 {
-  /* display: flex; */
-}
+
 .project03-image {
   flex: 2;
   /* margin-top: 100px; */
