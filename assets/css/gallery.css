@@ -9,6 +9,11 @@ img {vertical-align: middle;}
   position: relative;
   margin: auto;
 }
+.mySlide img {
+    margin-left: 90px;
+    height: 450px;
+    width: 200px;
+}
 
 /* Caption text */
 .text {
