@@ -11,8 +11,8 @@
   font-size: 35px;
 }
 .do-card .card {
-  width: 380px;
-  height: 280px;
+  width: 400px;
+  height: 350px;
   margin-top: 30px;
   margin-left: 25px;
   background-color: white;
@@ -27,6 +27,7 @@
   text-align: left;
   margin-top: 15px;
   font-family: PollyRounded-Light;
+  line-height: 1.6;
 }
 .do-card .card i {
   margin-top: 15px;
