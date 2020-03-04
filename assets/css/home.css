@@ -196,7 +196,7 @@ i.material-icons:nth-of-type(3):after {
 
 i.material-icons:hover {
     background-color: transparent;
-    transform: rotate(720deg);
+    transform: rotate(1440deg);
     cursor: pointer;
     box-shadow: none;
 }
