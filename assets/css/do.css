@@ -1,5 +1,8 @@
 .do {
   height: 500px;
+  background-color: #fbfaff;
+background-image: url("https://www.transparenttextures.com/patterns/ag-square.png");
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
 }
 .do-card {
   display: flex;

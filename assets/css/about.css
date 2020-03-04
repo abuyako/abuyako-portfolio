@@ -2,6 +2,9 @@
     width: 100%;
     height: 500px;
     display: flex;
+    background-color: #fbfaff;
+background-image: url("https://www.transparenttextures.com/patterns/asfalt-dark.png");
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
 }
 .about-picture {
     flex: 2;

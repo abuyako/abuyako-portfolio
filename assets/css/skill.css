@@ -1,6 +1,9 @@
 .skill {
     height: 500px;
     display: flex;
+    background-color: #fbfaff;
+background-image: url("https://www.transparenttextures.com/patterns/absurdity.png");
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
 }
 .skill-technical {
     flex: 2;
