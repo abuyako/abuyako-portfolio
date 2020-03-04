@@ -1,4 +1,13 @@
 .contact {
     height: 200px;
     background-color: mistyrose;
+    display: flex;
+    justify-content: space-around;
+}
+.contant-text {
+    display: flex;
+    align-items: center;
+}
+.contant-text h1 {
+    font-family: PollyRounded-Light;
 }
