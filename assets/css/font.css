@@ -1,40 +1,40 @@
 @font-face {
-    font-family: "Amaranth-Regular";
-    font-style: normal;
-    font-weight: 100;
-    src: url(../fonts/Amaranth/Amaranth-Regular.ttf);
+  font-family: "Amaranth-Regular";
+  font-style: normal;
+  font-weight: 100;
+  src: url(../fonts/Amaranth/Amaranth-Regular.ttf);
 }
 @font-face {
-    font-family: "Amaranth-Bold";
-    font-style: normal;
-    font-weight: 500;
-    src: url(../fonts/Amaranth/Amaranth-Bold.ttf);
+  font-family: "Amaranth-Bold";
+  font-style: normal;
+  font-weight: 500;
+  src: url(../fonts/Amaranth/Amaranth-Bold.ttf);
 }
 @font-face {
-    font-family: "Amaranth-BoldItalic";
-    font-style: normal;
-    font-weight: 500;
-    src: url(../fonts/Amaranth/Amaranth-BoldItalic.ttf);
+  font-family: "Amaranth-BoldItalic";
+  font-style: normal;
+  font-weight: 500;
+  src: url(../fonts/Amaranth/Amaranth-BoldItalic.ttf);
 }
 @font-face {
-    font-family: "Amaranth-Italic";
-    font-style: normal;
-    font-weight: 500;
-    src: url(../fonts/Amaranth/Amaranth-Italic.ttf);
+  font-family: "Amaranth-Italic";
+  font-style: normal;
+  font-weight: 500;
+  src: url(../fonts/Amaranth/Amaranth-Italic.ttf);
 }
 @font-face {
-    font-family: "PollyRounded-Bold";
-    src: url(../fonts/PollyRounded/PollyRounded-Bold.ttf);
+  font-family: "PollyRounded-Bold";
+  src: url(../fonts/PollyRounded/PollyRounded-Bold.ttf);
 }
 @font-face {
-    font-family: "PollyRounded-Regular";
-    src: url(../fonts/PollyRounded/PollyRounded-Regular.ttf);
+  font-family: "PollyRounded-Regular";
+  src: url(../fonts/PollyRounded/PollyRounded-Regular.ttf);
 }
 @font-face {
-    font-family: "PollyRounded-Light";
-    src: url(../fonts/PollyRounded/PollyRounded-Light.ttf);
+  font-family: "PollyRounded-Light";
+  src: url(../fonts/PollyRounded/PollyRounded-Light.ttf);
 }
 @font-face {
-    font-family: "PollyRounded-Thin";
-    src: url(../fonts/PollyRounded/PollyRounded-Thin.ttf);
+  font-family: "PollyRounded-Thin";
+  src: url(../fonts/PollyRounded/PollyRounded-Thin.ttf);
 }

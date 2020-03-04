@@ -1,51 +1,50 @@
 .contact {
-    height: 400px;
-    display: flex;
-    justify-content: space-around;
-    background-color: #fbfaff;
-background-image: url("https://www.transparenttextures.com/patterns/asfalt-dark.png");
-/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+  height: 400px;
+  display: flex;
+  justify-content: space-around;
+  background-color: #fbfaff;
+  background-image: url("https://www.transparenttextures.com/patterns/asfalt-dark.png");
+  /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
 }
 .contant-text {
-    display: flex;
-    align-items: center;
+  display: flex;
+  align-items: center;
 }
 .contant-text h1 {
-    font-family: PollyRounded-Light;
+  font-family: PollyRounded-Light;
 }
 .contact-hire {
-    display: flex;
-    align-items: center;
-    background-color: red;
-    width: 310px;
-    height: 50px;
-    margin-top: 280px;
+  display: flex;
+  align-items: center;
+  background-color: red;
+  width: 310px;
+  height: 50px;
+  margin-top: 280px;
 }
 .contact-hire a {
-    text-decoration: none;
-    margin-left: 20px;
-    padding: 5px;
-    color: #ffffff;
-    font-family: Amaranth-Regular;
+  text-decoration: none;
+  margin-left: 20px;
+  padding: 5px;
+  color: #ffffff;
+  font-family: Amaranth-Regular;
 }
 
-
 #myBtn {
-    display: none;
-    position: fixed;
-    bottom: 20px;
-    right: 30px;
-    z-index: 99;
-    font-size: 15px;
-    border: none;
-    outline: none;
-    background-color: red;
-    color: white;
-    cursor: pointer;
-    padding: 10px;
-    border-radius: 4px;
-  }
-  
-  #myBtn:hover {
-    background-color: #000000;
-  }
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  z-index: 99;
+  font-size: 15px;
+  border: none;
+  outline: none;
+  background-color: red;
+  color: white;
+  cursor: pointer;
+  padding: 10px;
+  border-radius: 4px;
+}
+
+#myBtn:hover {
+  background-color: #000000;
+}

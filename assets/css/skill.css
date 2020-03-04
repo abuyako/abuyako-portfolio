@@ -1,182 +1,182 @@
 .skill {
-    height: 500px;
-    display: flex;
-    background-color: #fbfaff;
-background-image: url("https://www.transparenttextures.com/patterns/absurdity.png");
-/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+  height: 500px;
+  display: flex;
+  background-color: #fbfaff;
+  background-image: url("https://www.transparenttextures.com/patterns/absurdity.png");
+  /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
 }
 .skill-technical {
-    flex: 2;
+  flex: 2;
 }
 .skill-professional {
-    flex: 2;
+  flex: 2;
 }
 .skill-technical h1 {
-    text-align: center;
-    font-family: Amaranth-Bold;
-    font-size: 30px;
+  text-align: center;
+  font-family: Amaranth-Bold;
+  font-size: 30px;
 }
 .skill-professional h1 {
-    text-align: center;
-    font-family: Amaranth-Bold;
-    font-size: 30px;
+  text-align: center;
+  font-family: Amaranth-Bold;
+  font-size: 30px;
 }
 .myjavascript {
-    width: 75%;
-    background-color: lightgray;
-    margin-left: 30px;
-    border-radius: 10px;
-    margin-top: 8px;
+  width: 75%;
+  background-color: lightgray;
+  margin-left: 30px;
+  border-radius: 10px;
+  margin-top: 8px;
 }
 .javascript {
-    width: 75%;
-    height: 12px;
-    background-color: red;
-    text-align: center;
-    color: white;
-    font-size: 12px;
-    border-radius: 10px;
-    padding: 2px;
+  width: 75%;
+  height: 12px;
+  background-color: red;
+  text-align: center;
+  color: white;
+  font-size: 12px;
+  border-radius: 10px;
+  padding: 2px;
 }
 .skill p {
-    margin-left: 35px;
-    font-family: Amaranth-Regular;
-    margin-top: 25px;
+  margin-left: 35px;
+  font-family: Amaranth-Regular;
+  margin-top: 25px;
 }
 .myhtml {
-    width: 75%;
-    background-color: lightgray;
-    margin-left: 30px;
-    border-radius: 10px;
-    margin-top: 8px;
+  width: 75%;
+  background-color: lightgray;
+  margin-left: 30px;
+  border-radius: 10px;
+  margin-top: 8px;
 }
 .html {
-    width: 95%;
-    height: 12px;
-    background-color: red;
-    text-align: center;
-    color: white;
-    font-size: 12px;
-    border-radius: 10px;
-    padding: 2px;
+  width: 95%;
+  height: 12px;
+  background-color: red;
+  text-align: center;
+  color: white;
+  font-size: 12px;
+  border-radius: 10px;
+  padding: 2px;
 }
 .mycss {
-    width: 75%;
-    background-color: lightgray;
-    margin-left: 30px;
-    border-radius: 10px;
-    margin-top: 8px;
+  width: 75%;
+  background-color: lightgray;
+  margin-left: 30px;
+  border-radius: 10px;
+  margin-top: 8px;
 }
 .css {
-    width: 85%;
-    height: 12px;
-    background-color: red;
-    text-align: center;
-    color: white;
-    font-size: 12px;
-    border-radius: 10px;
-    padding: 2px;
+  width: 85%;
+  height: 12px;
+  background-color: red;
+  text-align: center;
+  color: white;
+  font-size: 12px;
+  border-radius: 10px;
+  padding: 2px;
 }
 .myangular {
-    width: 75%;
-    background-color: lightgray;
-    margin-left: 30px;
-    border-radius: 10px;
-    margin-top: 8px;
+  width: 75%;
+  background-color: lightgray;
+  margin-left: 30px;
+  border-radius: 10px;
+  margin-top: 8px;
 }
 .angular {
-    width: 45%;
-    height: 12px;
-    background-color: red;
-    text-align: center;
-    color: white;
-    font-size: 12px;
-    border-radius: 10px;
-    padding: 2px;
+  width: 45%;
+  height: 12px;
+  background-color: red;
+  text-align: center;
+  color: white;
+  font-size: 12px;
+  border-radius: 10px;
+  padding: 2px;
 }
 .mysql {
-    width: 75%;
-    background-color: lightgray;
-    margin-left: 30px;
-    border-radius: 10px;
-    margin-top: 8px;
+  width: 75%;
+  background-color: lightgray;
+  margin-left: 30px;
+  border-radius: 10px;
+  margin-top: 8px;
 }
 .sql {
-    width: 40%;
-    height: 12px;
-    background-color: red;
-    text-align: center;
-    color: white;
-    font-size: 12px;
-    border-radius: 10px;
-    padding: 2px;
+  width: 40%;
+  height: 12px;
+  background-color: red;
+  text-align: center;
+  color: white;
+  font-size: 12px;
+  border-radius: 10px;
+  padding: 2px;
 }
 
 .mycomm {
-    width: 75%;
-    background-color: lightgray;
-    margin-left: 30px;
-    border-radius: 10px;
-    margin-top: 8px;
+  width: 75%;
+  background-color: lightgray;
+  margin-left: 30px;
+  border-radius: 10px;
+  margin-top: 8px;
 }
 .comm {
-    width: 95%;
-    height: 12px;
-    background-color: tomato;
-    text-align: center;
-    color: white;
-    font-size: 12px;
-    border-radius: 10px;
-    padding: 2px;
+  width: 95%;
+  height: 12px;
+  background-color: tomato;
+  text-align: center;
+  color: white;
+  font-size: 12px;
+  border-radius: 10px;
+  padding: 2px;
 }
 .mywork {
-    width: 75%;
-    background-color: lightgray;
-    margin-left: 30px;
-    border-radius: 10px;
-    margin-top: 8px;
+  width: 75%;
+  background-color: lightgray;
+  margin-left: 30px;
+  border-radius: 10px;
+  margin-top: 8px;
 }
 .work {
-    width: 75%;
-    height: 12px;
-    background-color: tomato;
-    text-align: center;
-    color: white;
-    font-size: 12px;
-    border-radius: 10px;
-    padding: 2px;
+  width: 75%;
+  height: 12px;
+  background-color: tomato;
+  text-align: center;
+  color: white;
+  font-size: 12px;
+  border-radius: 10px;
+  padding: 2px;
 }
 .mymanage {
-    width: 75%;
-    background-color: lightgray;
-    margin-left: 30px;
-    border-radius: 10px;
-    margin-top: 8px;
+  width: 75%;
+  background-color: lightgray;
+  margin-left: 30px;
+  border-radius: 10px;
+  margin-top: 8px;
 }
 .manage {
-    width: 85%;
-    height: 12px;
-    background-color: tomato;
-    text-align: center;
-    color: white;
-    font-size: 12px;
-    border-radius: 10px;
-    padding: 2px;
+  width: 85%;
+  height: 12px;
+  background-color: tomato;
+  text-align: center;
+  color: white;
+  font-size: 12px;
+  border-radius: 10px;
+  padding: 2px;
 }
 .mycreate {
-    width: 75%;
-    background-color: lightgray;
-    margin-left: 30px;
-    border-radius: 10px;
-    margin-top: 8px;
+  width: 75%;
+  background-color: lightgray;
+  margin-left: 30px;
+  border-radius: 10px;
+  margin-top: 8px;
 }
 .create {
-    width: 75%;
-    height: 12px;
-    background-color: tomato;
-    text-align: center;
-    color: white;
-    font-size: 12px;
-    border-radius: 10px;
-    padding: 2px;
+  width: 75%;
+  height: 12px;
+  background-color: tomato;
+  text-align: center;
+  color: white;
+  font-size: 12px;
+  border-radius: 10px;
+  padding: 2px;
 }

@@ -1,223 +1,222 @@
 .experience {
-    height: 750px;
-    display: flex;
-    background-color: #fbfaff;
-background-image: url("https://www.transparenttextures.com/patterns/asfalt-dark.png");
-/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+  height: 750px;
+  display: flex;
+  background-color: #fbfaff;
+  background-image: url("https://www.transparenttextures.com/patterns/asfalt-dark.png");
+  /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
 }
 .experience-education {
-    flex: 2;
-    text-align: center;
-    font-family: Amaranth-Bold;
-    font-size: 30px;
-    display: flex;
-    flex-direction: column;
-    align-items: flex-end;
-    margin-right: 10px;
+  flex: 2;
+  text-align: center;
+  font-family: Amaranth-Bold;
+  font-size: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  margin-right: 10px;
 }
 .experience-education h4 {
-    margin-right: 180px;
+  margin-right: 180px;
 }
 .experience-work h4 {
-    margin-left: 140px;
+  margin-left: 140px;
 }
 .experience-work {
-    flex: 2;
-    text-align: center ;
-    font-family: Amaranth-Bold;
-    font-size: 30px;
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    margin-left: 10px;
+  flex: 2;
+  text-align: center;
+  font-family: Amaranth-Bold;
+  font-size: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-left: 10px;
 }
 .card {
-    width: 480px;
-    height: 250px;
-    background-color: white;
-    margin-top: 20px;
-    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
-  transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1)
+  width: 480px;
+  height: 250px;
+  background-color: white;
+  margin-top: 20px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+  transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
 }
 .experience-education .card-01 {
-    height: 160px;
+  height: 160px;
 }
 .experience-education .card-02 {
-    height: 160px;
+  height: 160px;
 }
 .card:hover {
-    box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
 }
 .experience-education .card-01 h1 {
-    font-family: PollyRounded-Bold;
-    font-size: 20px;
-    margin-top: 15px;
+  font-family: PollyRounded-Bold;
+  font-size: 20px;
+  margin-top: 15px;
 }
 .experience-education .card-01 h2 {
-    font-family: Amaranth-Bold;
-    margin-top: 10px;
-    font-size: 30px;
+  font-family: Amaranth-Bold;
+  margin-top: 10px;
+  font-size: 30px;
 }
 .experience-education .card-01 h3 {
-    font-family: Amaranth-BoldItalic;
-    margin-top: 10px;
-    font-size: 20px;
+  font-family: Amaranth-BoldItalic;
+  margin-top: 10px;
+  font-size: 20px;
 }
 .experience-education .card-01 p {
-    font-family: PollyRounded-Thin;
-    margin-top: 10px;
-    font-size: 20px;
+  font-family: PollyRounded-Thin;
+  margin-top: 10px;
+  font-size: 20px;
 }
 
 .experience-education .card-02 h1 {
-    font-family: PollyRounded-Bold;
-    font-size: 20px;
-    margin-top: 15px;
+  font-family: PollyRounded-Bold;
+  font-size: 20px;
+  margin-top: 15px;
 }
 .experience-education .card-02 h2 {
-    font-family: Amaranth-Bold;
-    margin-top: 10px;
-    font-size: 30px;
+  font-family: Amaranth-Bold;
+  margin-top: 10px;
+  font-size: 30px;
 }
 .experience-education .card-02 h3 {
-    font-family: Amaranth-BoldItalic;
-    margin-top: 10px;
-    font-size: 20px;
+  font-family: Amaranth-BoldItalic;
+  margin-top: 10px;
+  font-size: 20px;
 }
 .experience-education .card-02 p {
-    font-family: PollyRounded-Thin;
-    margin-top: 10px;
-    font-size: 20px;
+  font-family: PollyRounded-Thin;
+  margin-top: 10px;
+  font-size: 20px;
 }
 
 .experience-work .card-04 h1 {
-    font-size: 20px;
-    margin-top: 10px;
-    float: left;
-    margin-left: 20px;
+  font-size: 20px;
+  margin-top: 10px;
+  float: left;
+  margin-left: 20px;
 }
 .experience-work .card-04 p {
-    font-size: 13px;
-    margin-top: 15.5px;
-    float: left;
-    margin-left: 5px;
-    font-family:Amaranth-Italic ;
+  font-size: 13px;
+  margin-top: 15.5px;
+  float: left;
+  margin-left: 5px;
+  font-family: Amaranth-Italic;
 }
 .experience-work .card-04 h2 {
-    float: left;
-    margin-left: 20px;
-    font-family: PollyRounded-Light;
-    font-size: 14px;
-    margin-top: 5px;
+  float: left;
+  margin-left: 20px;
+  font-family: PollyRounded-Light;
+  font-size: 14px;
+  margin-top: 5px;
 }
 .experience-work .card-04 h3 {
-    float: left;
-    font-size: 13px;
-    margin-left: 20px;
-    font-family: Amaranth-Regular;
+  float: left;
+  font-size: 13px;
+  margin-left: 20px;
+  font-family: Amaranth-Regular;
 }
 .experience-work .card-04 h4 {
-    float: left;
-    font-size: 13px;
-    margin-left: 20px;
-    font-family: PollyRounded-Light;
+  float: left;
+  font-size: 13px;
+  margin-left: 20px;
+  font-family: PollyRounded-Light;
 }
 .experience-work .card-05 h1 {
-    font-size: 20px;
-    margin-top: 10px;
-    float: left;
-    margin-left: 20px;
+  font-size: 20px;
+  margin-top: 10px;
+  float: left;
+  margin-left: 20px;
 }
 .experience-work .card-05 p {
-    font-size: 13px;
-    margin-top: 15.5px;
-    float: left;
-    margin-left: 5px;
-    font-family:Amaranth-Italic ;
+  font-size: 13px;
+  margin-top: 15.5px;
+  float: left;
+  margin-left: 5px;
+  font-family: Amaranth-Italic;
 }
 .experience-work .card-05 h2 {
-    float: left;
-    margin-left: 20px;
-    font-family: PollyRounded-Light;
-    font-size: 14px;
-    margin-top: 5px;
+  float: left;
+  margin-left: 20px;
+  font-family: PollyRounded-Light;
+  font-size: 14px;
+  margin-top: 5px;
 }
 .experience-work .card-05 h3 {
-    float: left;
-    font-size: 13px;
-    margin-left: 20px;
-    font-family: Amaranth-Regular;
+  float: left;
+  font-size: 13px;
+  margin-left: 20px;
+  font-family: Amaranth-Regular;
 }
 .experience-work .card-05 h4 {
-    float: left;
-    font-size: 13px;
-    margin-left: 20px;
-    font-family: PollyRounded-Light;
+  float: left;
+  font-size: 13px;
+  margin-left: 20px;
+  font-family: PollyRounded-Light;
 }
 
 .experience-work .card-06 h1 {
-    font-size: 20px;
-    margin-top: 10px;
-    float: left;
-    margin-left: 20px;
+  font-size: 20px;
+  margin-top: 10px;
+  float: left;
+  margin-left: 20px;
 }
 .experience-work .card-06 p {
-    font-size: 13px;
-    margin-top: 15.5px;
-    float: left;
-    margin-left: 5px;
-    font-family:Amaranth-Italic ;
+  font-size: 13px;
+  margin-top: 15.5px;
+  float: left;
+  margin-left: 5px;
+  font-family: Amaranth-Italic;
 }
 .experience-work .card-06 h2 {
-    float: left;
-    margin-left: 20px;
-    font-family: PollyRounded-Light;
-    font-size: 14px;
-    margin-top: 5px;
+  float: left;
+  margin-left: 20px;
+  font-family: PollyRounded-Light;
+  font-size: 14px;
+  margin-top: 5px;
 }
 .experience-work .card-06 h3 {
-    float: left;
-    font-size: 13px;
-    margin-left: 20px;
-    font-family: Amaranth-Regular;
+  float: left;
+  font-size: 13px;
+  margin-left: 20px;
+  font-family: Amaranth-Regular;
 }
 .experience-work .card-06 h4 {
-    float: left;
-    font-size: 13px;
-    margin-left: 20px;
-    font-family: PollyRounded-Light;
+  float: left;
+  font-size: 13px;
+  margin-left: 20px;
+  font-family: PollyRounded-Light;
 }
 
 .experience-work .card-07 h1 {
-    font-size: 20px;
-    margin-top: 10px;
-    float: left;
-    margin-left: 20px;
+  font-size: 20px;
+  margin-top: 10px;
+  float: left;
+  margin-left: 20px;
 }
 .experience-work .card-07 p {
-    font-size: 13px;
-    margin-top: 15.5px;
-    float: left;
-    margin-left: 5px;
-    font-family:Amaranth-Italic ;
+  font-size: 13px;
+  margin-top: 15.5px;
+  float: left;
+  margin-left: 5px;
+  font-family: Amaranth-Italic;
 }
 .experience-work .card-07 h2 {
-    float: left;
-    margin-left: 20px;
-    font-family: PollyRounded-Light;
-    font-size: 14px;
-    margin-top: 5px;
+  float: left;
+  margin-left: 20px;
+  font-family: PollyRounded-Light;
+  font-size: 14px;
+  margin-top: 5px;
 }
 .experience-work .card-07 h3 {
-    float: left;
-    font-size: 13px;
-    margin-left: 20px;
-    font-family: Amaranth-Regular;
+  float: left;
+  font-size: 13px;
+  margin-left: 20px;
+  font-family: Amaranth-Regular;
 }
 .experience-work .card-07 h4 {
-    float: left;
-    font-size: 13px;
-    margin-left: 20px;
-    font-family: PollyRounded-Light;
+  float: left;
+  font-size: 13px;
+  margin-left: 20px;
+  font-family: PollyRounded-Light;
 }
-

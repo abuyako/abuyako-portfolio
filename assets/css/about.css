@@ -1,62 +1,62 @@
 .about {
-    width: 100%;
-    height: 500px;
-    display: flex;
-    background-color: #fbfaff;
-background-image: url("https://www.transparenttextures.com/patterns/asfalt-dark.png");
-/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+  width: 100%;
+  height: 500px;
+  display: flex;
+  background-color: #fbfaff;
+  background-image: url("https://www.transparenttextures.com/patterns/asfalt-dark.png");
+  /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
 }
 .about-picture {
-    flex: 2;
+  flex: 2;
 }
 .about-picture img {
-    width: 450px;
-    margin-left: 100px;
-    margin-top: 10px;
+  width: 450px;
+  margin-left: 100px;
+  margin-top: 10px;
 }
 .about-text {
-    flex: 2;
-    margin-top: 60px;
+  flex: 2;
+  margin-top: 60px;
 }
 .about-text h1 {
-    font-size: 30px;
-    font-family: Amaranth-Bold;
+  font-size: 30px;
+  font-family: Amaranth-Bold;
 }
 .about-text p {
-    margin-top: 20px;
-    width: 600px;
-    font-size: 18px;
-    font-family: PollyRounded-Light;
+  margin-top: 20px;
+  width: 600px;
+  font-size: 18px;
+  font-family: PollyRounded-Light;
 }
 .about-text ul {
-    margin-top: 30px;
-    display: flex;
-    width: 400px;
-    height: 35px;
-    line-height: 22px;
+  margin-top: 30px;
+  display: flex;
+  width: 400px;
+  height: 35px;
+  line-height: 22px;
 }
 .about-text li {
-    width: 100px;
-    border: orangered solid 2px;
-    text-align: center;
-    margin-left: 5px;
-    border-radius: 5px;
-    padding: 3px;
-    font-family: Amaranth-Regular;
-    cursor: pointer;
+  width: 100px;
+  border: orangered solid 2px;
+  text-align: center;
+  margin-left: 5px;
+  border-radius: 5px;
+  padding: 3px;
+  font-family: Amaranth-Regular;
+  cursor: pointer;
 }
 .btn {
-    background-color: red;
-    border: none;
-    border-radius: 20px;
-    color: white;
-    padding: 12px 30px;
-    cursor: pointer;
-    font-size: 18px;
-    margin-top: 60px;
-    font-family: Amaranth-Regular;
-    -webkit-box-shadow: 0 10px 6px -6px #777;
-       -moz-box-shadow: 0 10px 6px -6px #777;
-            box-shadow: 0 10px 6px -6px #777;
-    transition: 0.3s;
-  }
+  background-color: red;
+  border: none;
+  border-radius: 20px;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 18px;
+  margin-top: 60px;
+  font-family: Amaranth-Regular;
+  -webkit-box-shadow: 0 10px 6px -6px #777;
+  -moz-box-shadow: 0 10px 6px -6px #777;
+  box-shadow: 0 10px 6px -6px #777;
+  transition: 0.3s;
+}
