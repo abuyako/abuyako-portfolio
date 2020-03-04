@@ -16,7 +16,7 @@ background-image: url("https://www.transparenttextures.com/patterns/asfalt-dark.
 .contact-hire {
     display: flex;
     align-items: center;
-    background-color: orangered;
+    background-color: red;
     width: 310px;
     height: 50px;
     margin-top: 280px;
