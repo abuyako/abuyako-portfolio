@@ -7,6 +7,10 @@ body {
 .mySlide {
   display: none;
 }
+.mySlide .text {
+  color: black;
+  font-family: Amaranth-Regular;
+}
 img {
   vertical-align: middle;
 }
