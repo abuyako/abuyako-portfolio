@@ -1,0 +1,24 @@
+@media all and (max-width:500px) {
+    .navbar {
+        flex-direction: column;
+        text-align: center;
+    }
+    .navbar-logo {
+        padding: 18 0 0;
+    }
+    .navbar-logo h1 {
+        margin-right: 50px;
+    }
+    .navbar-list ul {
+        flex-direction: column;
+        margin-top: 0;
+    }
+    .navbar-list ul li {
+        padding: 2px;
+        font-size: 13px;
+    }
+    .home {
+        width: 100%;
+    }
+    
+}
