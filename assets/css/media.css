@@ -165,5 +165,174 @@
         font-family: PollyRounded-Light;
         line-height: 1.6;
       }
+      .skill {
+          width: 100%;
+      }
+      .skill-professional h1 {
+        font-size: 20px;
+      }
+      .skill-technical h1 {
+        font-size: 20px;
+      }
+      myjavascript {
+        width: 75%;
+        background-color: lightgray;
+        margin-left: 30px;
+        border-radius: 10px;
+        margin-top: 8px;
+      }
+      .javascript {
+        width: 75%;
+        height: 12px;
+        background-color: red;
+        text-align: center;
+        color: white;
+        font-size: 12px;
+        border-radius: 10px;
+        padding: 2px;
+      }
+      .skill p {
+        margin-left: 35px;
+        font-family: Amaranth-Regular;
+        margin-top: 25px;
+      }
+      .myhtml {
+        width: 75%;
+        background-color: lightgray;
+        margin-left: 30px;
+        border-radius: 10px;
+        margin-top: 8px;
+      }
+      .html {
+        width: 95%;
+        height: 10px;
+        background-color: red;
+        text-align: center;
+        color: white;
+        font-size: 10px;
+        border-radius: 10px;
+        padding: 2px;
+      }
+      .mycss {
+        width: 75%;
+        background-color: lightgray;
+        margin-left: 30px;
+        border-radius: 10px;
+        margin-top: 8px;
+      }
+      .css {
+        width: 85%;
+        height: 10px;
+        background-color: red;
+        text-align: center;
+        color: white;
+        font-size: 10px;
+        border-radius: 10px;
+        padding: 2px;
+      }
+      .myangular {
+        width: 75%;
+        background-color: lightgray;
+        margin-left: 30px;
+        border-radius: 10px;
+        margin-top: 8px;
+      }
+      .angular {
+        width: 45%;
+        height: 10px;
+        background-color: red;
+        text-align: center;
+        color: white;
+        font-size: 10px;
+        border-radius: 10px;
+        padding: 2px;
+      }
+      .mysql {
+        width: 75%;
+        background-color: lightgray;
+        margin-left: 30px;
+        border-radius: 10px;
+        margin-top: 8px;
+      }
+      .sql {
+        width: 40%;
+        height: 10px;
+        background-color: red;
+        text-align: center;
+        color: white;
+        font-size: 10px;
+        border-radius: 10px;
+        padding: 2px;
+      }
+      
+      .mycomm {
+        width: 75%;
+        background-color: lightgray;
+        margin-left: 30px;
+        border-radius: 10px;
+        margin-top: 8px;
+      }
+      .comm {
+        width: 95%;
+        height: 10px;
+        background-color: tomato;
+        text-align: center;
+        color: white;
+        font-size: 10px;
+        border-radius: 10px;
+        padding: 2px;
+      }
+      .mywork {
+        width: 75%;
+        background-color: lightgray;
+        margin-left: 30px;
+        border-radius: 10px;
+        margin-top: 8px;
+      }
+      .work {
+        width: 75%;
+        height: 10px;
+        background-color: tomato;
+        text-align: center;
+        color: white;
+        font-size: 10px;
+        border-radius: 10px;
+        padding: 2px;
+      }
+      .mymanage {
+        width: 75%;
+        background-color: lightgray;
+        margin-left: 30px;
+        border-radius: 10px;
+        margin-top: 8px;
+      }
+      .manage {
+        width: 85%;
+        height: 10px;
+        background-color: tomato;
+        text-align: center;
+        color: white;
+        font-size: 10px;
+        border-radius: 10px;
+        padding: 2px;
+      }
+      .mycreate {
+        width: 75%;
+        background-color: lightgray;
+        margin-left: 30px;
+        border-radius: 10px;
+        margin-top: 8px;
+      }
+      .create {
+        width: 75%;
+        height: 10px;
+        background-color: tomato;
+        text-align: center;
+        color: white;
+        font-size: 10px;
+        border-radius: 10px;
+        padding: 2px;
+      }
+      
 
 }
