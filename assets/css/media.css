@@ -21,7 +21,7 @@
     }
     .home {
         width: 100%;
-        height: 500px;
+        height: 300px;
     }
     .home-text h1 {
         margin-top: 40px;
@@ -78,4 +78,58 @@
         margin-top: 80px;
         margin-left: 10px;
       }
+      .about {
+          width: 100%;
+          height: 250px;
+      }
+      .about-picture img {
+        width: 150px;
+        margin-left: 40px;
+        margin-top: 10px;
+      }
+      .about-text {
+        margin-top: 20px;
+        margin-left: 10px;
+      }
+      .about-text h1 {
+        font-size: 15px;
+        font-family: Amaranth-Bold;
+      }
+      .about-text p {
+        margin-top: 20px;
+        width: 200px;
+        font-size: 12px;
+        font-family: PollyRounded-Light;
+      }
+      .about-text ul {
+        margin-top: 15px;
+        display: flex;
+        height: 20px;
+        line-height: 10px;
+      }
+      .about-text li {
+        width: 37px;
+        border: red solid 2px;
+        text-align: center;
+        border-radius: 5px;
+        font-family: Amaranth-Regular;
+        cursor: pointer;
+        font-size: 7px;
+      }
+      .btn {
+        background-color: red;
+        border: none;
+        border-radius: 18px;
+        color: white;
+        padding: 8px 20px;
+        cursor: pointer;
+        font-size: 13px;
+        margin-top: 20px;
+        font-family: Amaranth-Regular;
+        -webkit-box-shadow: 0 10px 6px -6px #777;
+        -moz-box-shadow: 0 10px 6px -6px #777;
+        box-shadow: 0 10px 6px -6px #777;
+        transition: 0.3s;
+      }
+      
 }
