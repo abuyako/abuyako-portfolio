@@ -15,6 +15,9 @@ html {
 .navbar-list {
   flex: 2;
 }
+.navbar-list .icon {
+  display: none;
+}
 .navbar-list ul {
   display: flex;
   justify-content: center;

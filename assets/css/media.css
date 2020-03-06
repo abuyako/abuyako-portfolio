@@ -5,10 +5,10 @@
         position: sticky;
         top: 0;
     }
-    .navbar-list {
+    .navbar {
       overflow: hidden;
     }
-    .navbar-list ul {
+    .navbar ul {
       float: left;
       display: block;
       color: #f2f2f2;
@@ -32,22 +32,22 @@
         padding: 2px;
         font-size: 13px;
     }
-    .navbar-list ul:not(:first-child) {
+    .navbar ul:not(:first-child) {
       display: none;
     }
-    .navbar-list ul.icon {
+    .navbar ul.icon {
       float: right;
       display: block;
     }
-    .navbar-list.responsive {
+    .navbar.responsive {
       position: relative;
     }
-    .navbar-list.responsive .icon {
+    .navbar.responsive .icon {
       position: absolute;
       right: 0;
       top: 0;
     }
-    .navbar-list.responsive ul {
+    .navbar.responsive ul {
       float: none;
       display: block;
       text-align: left;
