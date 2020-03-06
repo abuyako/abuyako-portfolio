@@ -86,7 +86,7 @@ body {
   cursor: pointer;
   -webkit-transition-duration: 0.4s; /* Safari */
   transition-duration: 0.4s;
-  margin-left: 570px;
+  margin-left: 540px;
 }
 .project01-link:hover {
   box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24),
@@ -142,7 +142,7 @@ body {
   cursor: pointer;
   -webkit-transition-duration: 0.4s; /* Safari */
   transition-duration: 0.4s;
-  margin-left: 570px;
+  margin-left: 540px;
 }
 .project02-link:hover {
   box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24),
@@ -198,7 +198,7 @@ body {
   cursor: pointer;
   -webkit-transition-duration: 0.4s; /* Safari */
   transition-duration: 0.4s;
-  margin-left: 570px;
+  margin-left: 540px;
 }
 .project03-link:hover {
   box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24),
