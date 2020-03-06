@@ -22,6 +22,10 @@ html {
   margin: 0;
   padding: 0;
 }
+.navbar li:hover {
+  border-bottom: none;
+  color:white;
+}
 .navbar li a {
   display: block;
   text-align: center;

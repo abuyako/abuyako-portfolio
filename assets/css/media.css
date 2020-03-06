@@ -1,9 +1,22 @@
-@media all and (max-width:500px) {
+@media all and (max-width:600px) {
     .navbar {
         flex-direction: column;
         text-align: center;
         position: sticky;
         top: 0;
+    }
+    .navbar-list {
+      overflow: hidden;
+    }
+    .navbar-list ul {
+      float: left;
+      display: block;
+      color: #f2f2f2;
+      text-align: center;
+      padding: 14px 16px;
+    }
+    .navbar-list .icon {
+      display: none;
     }
     .navbar-logo {
         padding: 18 0 0;
@@ -18,6 +31,26 @@
     .navbar-list ul li {
         padding: 2px;
         font-size: 13px;
+    }
+    .navbar-list ul:not(:first-child) {
+      display: none;
+    }
+    .navbar-list ul.icon {
+      float: right;
+      display: block;
+    }
+    .navbar-list.responsive {
+      position: relative;
+    }
+    .navbar-list.responsive .icon {
+      position: absolute;
+      right: 0;
+      top: 0;
+    }
+    .navbar-list.responsive ul {
+      float: none;
+      display: block;
+      text-align: left;
     }
     .home {
         width: 100%;
@@ -133,7 +166,7 @@
       }
       .do {
           width: 100%;
-          height: 820px;
+          height: 900px;
       }
       .do-card {
         display: flex;
@@ -148,7 +181,7 @@
       }
       .do-card .card {
         width: 250px;
-        height: 220px;
+        height: 250px;
         margin-left: 25px;
         background-color: white;
       }
@@ -174,7 +207,7 @@
       .skill-technical h1 {
         font-size: 20px;
       }
-      myjavascript {
+      .myjavascript {
         width: 75%;
         background-color: lightgray;
         margin-left: 30px;
@@ -333,6 +366,30 @@
         border-radius: 10px;
         padding: 2px;
       }
-      
+      .experience {
+          height: 800px;
+          flex-direction: column;
+      }
+      .experience-education {
+        text-align: center;
+        font-family: Amaranth-Bold;
+        font-size: 20px;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-end;
+        margin-right: 10px;
+      }
+      .experience-education h4 {
+        margin-right: 180px;
+      }
+      .experience-work h4 {
+        margin-left: 140px;
+      }
+      .slideshow-container {
+          display: none;
+      }
+      .project {
+          display: none;
+      }
 
 }
