@@ -1,9 +1,10 @@
 .experience {
-  height: 750px;
+  height: 680px;
   display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
   background-color: #fbfaff;
   background-image: url("https://www.transparenttextures.com/patterns/asfalt-dark.png");
-  /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
 }
 .experience-education {
   flex: 2;
@@ -14,6 +15,7 @@
   flex-direction: column;
   align-items: flex-end;
   margin-right: 10px;
+  margin-top: 50px;
 }
 .experience-education h4 {
   margin-right: 180px;
@@ -30,10 +32,11 @@
   flex-direction: column;
   align-items: flex-start;
   margin-left: 10px;
+  margin-top: 50px;
 }
 .card {
   width: 480px;
-  height: 250px;
+  height: 160px;
   background-color: white;
   margin-top: 20px;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
@@ -48,6 +51,27 @@
 .card:hover {
   box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
 }
+.experience-education .card-00 h1 {
+  font-family: PollyRounded-Bold;
+  font-size: 20px;
+  margin-top: 15px;
+}
+.experience-education .card-00 h2 {
+  font-family: Amaranth-Bold;
+  margin-top: 10px;
+  font-size: 30px;
+}
+.experience-education .card-00 h3 {
+  font-family: Amaranth-BoldItalic;
+  margin-top: 10px;
+  font-size: 20px;
+}
+.experience-education .card-00 p {
+  font-family: PollyRounded-Thin;
+  margin-top: 10px;
+  font-size: 20px;
+}
+
 .experience-education .card-01 h1 {
   font-family: PollyRounded-Bold;
   font-size: 20px;
@@ -88,6 +112,9 @@
   font-family: PollyRounded-Thin;
   margin-top: 10px;
   font-size: 20px;
+}
+.experience-work .card-07  {
+  height: 250px;
 }
 
 .experience-work .card-04 h1 {
