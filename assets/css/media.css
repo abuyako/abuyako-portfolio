@@ -432,7 +432,7 @@
 
   /* experience   */
   .experience {
-    height: 1200px;
+    height: 1380px;
   }
   .card {
     width: 280px;
@@ -614,4 +614,46 @@
   .project {
     display: none;
   }
+}
+
+/* contact  */
+.contact {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.contant-text {
+  flex: 2;
+}
+.contact-hire {
+  background-color: red;
+  width: 100%;
+  flex: 2;
+}
+.contact-hire a {
+  text-decoration: none;
+  margin-right: 20px;
+  padding: 5px;
+  font-size: 10px;
+  color: #ffffff;
+  font-family: Amaranth-Regular;
+}
+
+#myBtn {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 300px;
+  z-index: 99;
+  font-size: 15px;
+  border: none;
+  outline: none;
+  background-color: black;
+  color: white;
+  cursor: pointer;
+  padding: 10px;
+  border-radius: 4px;
+}
+#myBtn:hover {
+  background-color: red;
 }
