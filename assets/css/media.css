@@ -254,6 +254,15 @@
   /* skills  */
   .skill {
     width: 100%;
+    height: 680px;
+    display: flex;
+    flex-direction: column;
+  }
+  .skill-technical {
+    margin-top: 50px;
+  }
+  .skill-professional {
+    margin-top: 50px;
   }
   .skill-professional h1 {
     font-size: 20px;
