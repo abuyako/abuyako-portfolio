@@ -469,7 +469,7 @@
     margin-top: 10px;
     font-size: 15px;
   }
-  
+
   .experience-education .card-01 h1 {
     font-family: PollyRounded-Bold;
     font-size: 15px;
@@ -536,20 +536,17 @@
     font-family: Amaranth-Italic;
   }
   .experience-work .card-04 h2 {
-    
     margin-left: 20px;
     font-family: PollyRounded-Light;
     font-size: 14px;
     margin-top: 5px;
   }
   .experience-work .card-04 h3 {
-  
     font-size: 13px;
     margin-left: 20px;
     font-family: Amaranth-Regular;
   }
   .experience-work .card-04 h4 {
-
     font-size: 13px;
     margin-top: 10px;
     font-family: PollyRounded-Light;
@@ -562,63 +559,54 @@
   .experience-work .card-05 p {
     font-size: 13px;
     margin-top: 10px;
-  
     margin-left: 5px;
     font-family: Amaranth-Italic;
   }
   .experience-work .card-05 h2 {
-
     margin-left: 20px;
     font-family: PollyRounded-Light;
     font-size: 14px;
     margin-top: 5px;
   }
   .experience-work .card-05 h3 {
-
     font-size: 13px;
     margin-left: 20px;
     font-family: Amaranth-Regular;
   }
   .experience-work .card-05 h4 {
-
     font-size: 13px;
     margin-left: 20px;
     font-family: PollyRounded-Light;
   }
-  
+
   .experience-work .card-06 h1 {
     font-size: 11px;
     margin-top: 10px;
-
     margin-left: 20px;
   }
   .experience-work .card-06 p {
     font-size: 9px;
     margin-top: 11px;
-
     margin-left: 5px;
     font-family: Amaranth-Italic;
   }
   .experience-work .card-06 h2 {
-    
     margin-left: 20px;
     font-family: PollyRounded-Light;
     font-size: 14px;
     margin-top: 5px;
   }
   .experience-work .card-06 h3 {
- 
     font-size: 13px;
     margin-left: 20px;
     font-family: Amaranth-Regular;
   }
   .experience-work .card-06 h4 {
-
     font-size: 13px;
     margin-left: 20px;
     font-family: PollyRounded-Light;
   }
-  
+
   /* project  */
   .slideshow-container {
     display: none;
