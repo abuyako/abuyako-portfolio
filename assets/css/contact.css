@@ -13,9 +13,14 @@
 }
 .contant-text h1 {
   font-family: PollyRounded-Light;
+  margin-top: 30px;
 }
 .contant-text h2 {
   font-family: Amaranth-Italic;
+}
+.contant-text p {
+  font-family: PollyRounded-Bold;
+  margin-top: 3px;
 }
 .contact-hire {
   display: flex;
