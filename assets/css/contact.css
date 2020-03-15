@@ -8,10 +8,14 @@
 }
 .contant-text {
   display: flex;
-  align-items: center;
+  flex-direction: column;
+  justify-content: center;
 }
 .contant-text h1 {
   font-family: PollyRounded-Light;
+}
+.contant-text h2 {
+  font-family: Amaranth-Italic;
 }
 .contact-hire {
   display: flex;
