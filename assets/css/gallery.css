@@ -20,7 +20,7 @@ img {
   /* max-width: 1000px; */
   width: 100%;
   position: relative;
-  margin: auto;
+  /* margin: auto; */
   height: 650px;
   background-image: url("https://www.transparenttextures.com/patterns/asfalt-dark.png");
 }
