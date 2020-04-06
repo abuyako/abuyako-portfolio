@@ -1,6 +1,7 @@
 .experience {
-  height: 680px;
+  height: auto;
   display: flex;
+  flex-wrap: wrap;
   flex-direction: row;
   flex-wrap: wrap;
   background-color: #fbfaff;
