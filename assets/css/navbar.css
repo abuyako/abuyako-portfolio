@@ -4,7 +4,7 @@ html {
 }
 .navbar {
   width: 100%;
-  height: auto;
+  height: 50px;
   display: flex;
   /* flex-wrap: wrap; */
   position: fixed;
@@ -19,7 +19,7 @@ html {
 .navbar-list {
   flex: 3;
 }
-.navbar-list .icon {
+.navbar-list a.icon {
   display: none;
 }
 .navbar-list ul {

@@ -1,3 +1,24 @@
-@media only screen and (max-width:860px) {
-  
+@media screen and (max-width:860px) {
+ .navbar-list ul{
+   display: none;
+ }
+ .navbar-list.icons {
+   display: block;
+ }
 } 
+
+@media screen and (max-width:860px) {
+  .navbar-list.responsive {
+    position: relative;
+  }
+  .navbar-list.navbar-list.responsive .icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  .navbar-list.responsive a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+}
