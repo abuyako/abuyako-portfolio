@@ -12,10 +12,10 @@ html {
   background-color: white;
 }
 .navbar-logo {
-  flex: 2;
+  flex: 1;
 }
 .navbar-list {
-  flex: 2;
+  flex: 3;
 }
 .navbar-list .icon {
   display: none;
