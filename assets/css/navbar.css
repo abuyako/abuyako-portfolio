@@ -6,7 +6,7 @@ html {
   width: 100%;
   height: auto;
   display: flex;
-  flex-wrap: wrap;
+  /* flex-wrap: wrap; */
   position: fixed;
   z-index: 9999;
   overflow: hidden;

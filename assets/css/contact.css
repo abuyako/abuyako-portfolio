@@ -1,6 +1,7 @@
 .contact {
-  height: 400px;
+  height: 500px;
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-around;
   background-color: #fbfaff;
   background-image: url("https://www.transparenttextures.com/patterns/asfalt-dark.png");

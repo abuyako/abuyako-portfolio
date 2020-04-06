@@ -8,9 +8,11 @@
 }
 .skill-technical {
   flex: 2;
+  margin-top: 50px;
 }
 .skill-professional {
   flex: 2;
+  margin-top: 50px;
 }
 .skill-technical h1 {
   text-align: center;
