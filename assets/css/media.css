@@ -68,3 +68,10 @@
     text-align: left;
   }
 }
+
+@media screen and (max-width:654px) {
+  #myBtn {
+    bottom: 20px;
+    left: 580px;
+   }
+}
