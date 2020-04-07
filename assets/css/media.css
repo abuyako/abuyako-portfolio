@@ -1,4 +1,4 @@
-@media screen and (max-width:860px) {
+@media screen and (max-width:375px) {
  .navbar-list ul{
    display: none;
  }
@@ -7,7 +7,7 @@
 }
 } 
 
-@media screen and (max-width:860px) {
+@media screen and (max-width:375px) {
   .navbar-list.responsive {
     position: relative;
   }
