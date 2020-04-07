@@ -19,7 +19,7 @@ html {
 .navbar-list {
   flex: 3;
 }
-.navbar-list a.icon {
+.navbar-list .icons {
   display: none;
 }
 .navbar-list ul {

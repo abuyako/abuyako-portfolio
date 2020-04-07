@@ -2,16 +2,16 @@
  .navbar-list ul{
    display: none;
  }
- .navbar-list.icons {
-   display: block;
- }
+ .navbar-list .icons {
+  display: block;
+}
 } 
 
 @media screen and (max-width:860px) {
   .navbar-list.responsive {
     position: relative;
   }
-  .navbar-list.navbar-list.responsive .icon {
+  .navbar-list.responsive .icons {
     position: absolute;
     right: 0;
     top: 0;
