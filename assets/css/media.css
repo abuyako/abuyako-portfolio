@@ -1,13 +1,59 @@
-@media screen and (max-width:375px) {
+@media screen and (max-width:900px) {
  .navbar-list ul{
    display: none;
  }
  .navbar-list .icons {
-  display: block;
-}
+  display: block; 
+ }
+ #myBtn {
+  bottom: 20px;
+  left: 630px;
+ }
+ .about img {
+   display: none;
+ }
+ .mySlides img {
+   width: 70%;
+ }
+ .mySlides .link {
+   margin: 0 auto;
+   margin-top: 20px;
+ }
+ .mySlides .project01-text, .project02-text, .project03-text {
+   margin-top: 20px;
+ }
+ .do h1 {
+   margin-top: 20px;
+ }
+ .about {
+   height: 400px;
+ }
+ .about-download .btn{
+   margin-top: 50px;
+   margin-left: 150px;
+ }
+ .experience-education {
+   align-items: center;
+ }
+ .experience-education h4 {
+   margin: 0 auto;
+ }
+ .experience-work h4 {
+   margin: 0 auto;
+ }
+ .experience-work {
+  align-items: center;
+ }
+ .mySlide img {
+   margin-left: 160px;
+   height: 400px;
+ } 
+ .slideshow-container {
+   height: 500px;
+ }
 } 
 
-@media screen and (max-width:375px) {
+@media screen and (max-width:900px) {
   .navbar-list.responsive {
     position: relative;
   }
