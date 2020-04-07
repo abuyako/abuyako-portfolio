@@ -75,3 +75,22 @@
     left: 580px;
    }
 }
+@media screen and (max-width:587px) {
+  #myBtn {
+    bottom: 20px;
+    left: 520px;
+   }
+   .contact-hire {
+     margin-top: 50px;
+   }
+   .mySlide img {
+    margin-left: 120px;
+    height: 350px;
+  } 
+  .slideshow-container {
+    height: 500px;
+  }
+  .about-text p {
+    width: 550px;
+  }
+}
