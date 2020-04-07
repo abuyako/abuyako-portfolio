@@ -116,3 +116,39 @@
     margin-left: 50px;
   }
 }
+
+@media screen and (max-width:489px) {
+  #myBtn {
+    bottom: 20px;
+    left: 400px;
+   }
+   .home-image img {
+     margin-left: 50px;
+     width: 350px;
+     height: 350px;
+     margin-top: 50px;
+   }
+   .about-text p {
+    width: 450px;
+  }
+  .card {
+    width: 430px;
+  }
+  .mySlides img {
+    width: 95%;
+  }
+  .mySlide img {
+    margin-left: 100px;
+    height: 330px;
+  } 
+  .slideshow-container {
+    height: 450px;
+  }
+  .do-card .card {
+    width: 380px;
+    height: 350px;
+    margin-top: 30px;
+    margin-left: 25px;
+    background-color: white;
+  }
+}
