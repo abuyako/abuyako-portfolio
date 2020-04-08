@@ -201,10 +201,11 @@
   }
 }
 
-@media screen and (max-width:383px) {
+@media screen and (max-width:343px) {
   #myBtn {
     bottom: 20px;
-    left: 320px;
+    left: 6px;
+    
    }
    .card {
      width: 330px;
@@ -275,5 +276,88 @@
     font-family: PollyRounded-Light;
     line-height: 1.6;
     font-size: 13px;
+  }
+}
+
+@media screen and (max-width:383px) {
+  #myBtn {
+    bottom: 20px;
+    left: 320px;
+   }
+   .card {
+     width: 330px;
+   }
+   .card-06 p {
+     display: none;
+   }
+   .experience-education .card-02 h2 {
+    font-family: Amaranth-Bold;
+    font-size: 25px;
+  }
+  .experience-education .card-00 h2 {
+    font-family: Amaranth-Bold;
+    font-size: 25px;
+  }
+  .do-card .card {
+    width: 320px;
+    height: 370px;
+    margin-top: 30px;
+    /* margin-left: 25px; */
+    margin-right: 25px;
+    background-color: white;
+  }
+  .about-text p {
+    width: 360px;
+  }
+  .about-text ul {
+    margin-top: 30px;
+    display: flex;
+    width: 340px;
+    height: 35px;
+    line-height: 22px;
+  }
+  .about-text li {
+    width: 100px;
+    border: orangered solid 2px;
+    text-align: center;
+    margin-left: 5px;
+    border-radius: 5px;
+    padding: 3px;
+    font-family: Amaranth-Regular;
+    cursor: pointer;
+  }
+  .home-image img {
+    margin-left: 40px;
+    width: 300px;
+    height: 300px;
+    margin-top: 50px;
+  }
+  .home-social {
+    margin-left: 20px;
+  }
+  .mySlides img {
+    width: 100%;
+    height: 200px;
+  }
+  .mySlide img {
+    margin-left: 80px;
+    height: 250px;
+  } 
+  .slideshow-container {
+    height: 400px;
+  }
+  .do-card .card p {
+    width: 270px;
+    margin: 0 auto;
+    text-align: left;
+    margin-top: 15px;
+    font-family: PollyRounded-Light;
+    line-height: 1.6;
+    font-size: 13px;
+  }
+  .about-download {
+    width: 100%;
+    height: 150px;
+    margin-left: -70px;
   }
 }
