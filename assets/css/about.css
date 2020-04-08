@@ -1,3 +1,6 @@
+* {
+  box-sizing: border-box;
+}
 .about {
   width: 100%;
   height: auto;

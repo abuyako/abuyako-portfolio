@@ -1,3 +1,6 @@
+* {
+  box-sizing: border-box;
+}
 .skill {
   height: auto;
   display: flex;
