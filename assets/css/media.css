@@ -361,3 +361,125 @@
     margin-left: -70px;
   }
 }
+
+@media screen and (max-width:346px) {
+  #myBtn {
+    bottom: 20px;
+    left: 290px;
+   }
+   .card {
+     width: 300px;
+   }
+   .card-06 p {
+     display: none;
+   }
+   .experience-education .card-00 h2 {
+    font-family: Amaranth-Bold;
+    /* font-size: 10px; */
+  }
+   .experience-education .card-01 h2 {
+    font-family: Amaranth-Bold;
+    font-size: 20px;
+  }
+   .experience-education .card-02 h2 {
+    font-family: Amaranth-Bold;
+    font-size: 20px;
+  }
+  .experience-education .card-00 h2 {
+    font-family: Amaranth-Bold;
+    font-size: 25px;
+  }
+  .do-card .card {
+    width: 300px;
+    height: 350px;
+    margin-top: 30px;
+    /* margin-left: 25px; */
+    margin-right: 25px;
+    background-color: white;
+  }
+  .about-text p {
+    width: 300px;
+  }
+  .about-text ul {
+    margin-top: 30px;
+    display: flex;
+    width: 250px;
+    height: 32px;
+    line-height: 20px;
+  }
+  .about-text li {
+    width: 100px;
+    border: orangered solid 2px;
+    text-align: center;
+    margin-left: 5px;
+    border-radius: 5px;
+    padding: 3px;
+    font-family: Amaranth-Regular;
+    cursor: pointer;
+  }
+  .home-image img {
+    margin-left: 40px;
+    width: 280px;
+    height: 280px;
+    margin-top: 50px;
+  }
+  .home-social {
+    margin-left: 20px;
+  }
+  .mySlides img {
+    width: 100%;
+    width: 200px;
+    height: 180px;
+  }
+  .mySlide img {
+    margin-left: 70px;
+    height: 230px;
+    border-radius: 0px;
+  } 
+  .slideshow-container {
+    height: 350px;
+  }
+  .do-card .card p {
+    width: 220px;
+    margin: 0 auto;
+    text-align: left;
+    margin-top: 15px;
+    font-family: PollyRounded-Light;
+    line-height: 1.6;
+    font-size: 13px;
+  }
+  .about-download {
+    width: 100%;
+    margin-left: -120px;
+  }
+  .btn {
+    width: 200px;
+  }
+  .project01-text p {
+    font-size: 15px;
+    font-family: PollyRounded-Light;
+    width: 300px;
+    height: 50px;
+    margin-left: -50px;
+    margin-top: 5px;
+  }
+  .project02-text p {
+    font-size: 15px;
+    font-family: PollyRounded-Light;
+    width: 300px;
+    height: 50px;
+    margin-left: -50px;
+    margin-top: 5px;
+  }
+  .project03-text p {
+    font-size: 15px;
+    font-family: PollyRounded-Light;
+    width: 300px;
+    height: 50px;
+    margin-left: -50px;
+    margin-top: 5px;
+  }
+  .project {
+    width: 100%;
+  }
+}
