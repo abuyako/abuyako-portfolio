@@ -1,7 +1,7 @@
 @media screen and (max-width:900px) {
   .navbar {
     height: auto;
-    height: 40px;
+    position: relative;
   }
   .navbar-logo {
     flex: 2;
@@ -9,16 +9,9 @@
   .navbar-list {
     flex: 2;
   }
- .navbar-list li{
-   display: none;
+ .navbar-list ul{
    width: 100px;
    margin-left: 50px;
- }
- .navbar-list .icons {
-  display: block; 
-  margin-top: 15px;
-  margin-left: 100px;
-  color: black;
  }
  .navbar li a {
   display: block;

@@ -1,8 +1,7 @@
-function myFunction() {
-    var x = document.getElementById("myTopnav");
-    if (x.className === "navbar-list") {
-      x.className += " responsive";
-    } else {
-      x.className = "navbar-list";
-    }
-  }
+let mainNav = document.getElementById('myTopnav');
+let navBarToggle = document.getElementById('js-navbar-toggle');
+
+navBarToggle.addEventListener('click', function () {
+    
+    mainNav.classList.toggle('active');
+});
