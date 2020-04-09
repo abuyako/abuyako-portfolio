@@ -3,6 +3,12 @@
     height: auto;
     position: relative;
   }
+  .navbar {
+    display: none;
+  }
+  .navba {
+    display: block;
+  }
   .navbar-logo {
     flex: 2;
   }
