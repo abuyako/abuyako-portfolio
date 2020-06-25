@@ -22,8 +22,8 @@ img {
   width: 100%;
   position: relative;
   /* margin: auto; */
-  height: 650px;
-  background-image: url("https://www.transparenttextures.com/patterns/asfalt-dark.png");
+  /* height: 650px; */
+  /* background-image: url("https://www.transparenttextures.com/patterns/asfalt-dark.png"); */
 }
 .mySlide img {
   margin-left: 290px;
